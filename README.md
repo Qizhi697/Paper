@@ -16,3 +16,4 @@ List of **Paper** and corresponding **Code**
 - [PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds](https://arxiv.org/pdf/1901.01060).[CGF 2020] | [[Code](https://github.com/mrakotosaon/pointcleannet)]
 - [Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning](https://arxiv.org/pdf/1904.07615).[ICCV 2019] | [[Code](https://github.com/phermosilla/TotalDenoising)]
    - the first unsupervised deep learning method for point cloud denoising  
+- [3D Point Cloud Denoising via Deep Neural Network Based Local Surface Estimation](https://arxiv.org/pdf/1904.04427.pdf).[ICASSP 2019] | [[Code](https://github.com/chaojingduan/Neural-Projection)]

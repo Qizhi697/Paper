@@ -27,5 +27,6 @@ List of **Paper** and corresponding **Code**
 - [Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution](https://arxiv.org/abs/2007.16100).[ECCV 2020] | [[Code](https://github.com/mit-han-lab/spvnas)]
 - [Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion](https://arxiv.org/abs/2012.03762).[AAAI 2021] | [[Code](https://github.com/yanx27/JS3C-Net)]
 - [KPRNet: Improving projection-based LiDAR semantic segmentation](https://arxiv.org/abs/2007.12668v2).[ArXiv 2020] | [[Code](https://github.com/DeyvidKochanov-TomTom/kprnet)]
+- [SalsaNext: Fast, Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving](https://arxiv.org/abs/2003.03653v3).[ISVC 2020] | [[Code](https://github.com/TiagoCortinhal/SalsaNext)]
 - [SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation](https://arxiv.org/abs/2004.01803v2).[ECCV 2020] | [[Code](https://github.com/chenfengxu714/SqueezeSegV3)]
 - [RangeNet++: Fast and Accurate LiDAR Semantic Segmentation](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf).[IROS 2019] | [[Code](https://github.com/PRBonn/lidar-bonnetal)]
